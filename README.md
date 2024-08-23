@@ -11,6 +11,8 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/to/develop-packages).
 -->
 
+## Password Encrpytor
+
 A simple Flutter package to encrypt and decrypt passwords.
 
 ## Features
